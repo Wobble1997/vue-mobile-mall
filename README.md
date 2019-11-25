@@ -1,26 +1,12 @@
-# xmgmail
+# 参考多方面vue架构设计，若侵权您的方案
+# 请联系qq:1310927234。马上删库
 
-## Project setup
+## 加载项目相关配置文件
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目方式：
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
